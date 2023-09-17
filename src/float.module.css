@@ -1,0 +1,21 @@
+.floatMenu{
+    position: absolute;
+    border-radius: 10%;
+    min-width: 30%;
+    max-height: 40%;
+    overflow: scroll;
+    scroll-behavior: smooth;
+    scrollbar-width: none;
+}
+
+.floatMenu li{
+    font-weight: 300;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    list-style: none;
+    padding: 5px;
+    
+}
+
+.details{
+    background-color: rgb(138, 169, 138);
+}
